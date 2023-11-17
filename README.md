@@ -1,5 +1,9 @@
 # MeraStore - Preview
 
+<p align="center">
+  <img src="https://github.com/vaibhav-xt/MeraStore/assets/90946899/0177f779-e36f-4bbe-b5e0-91ab6da58a1f" alt="Image Alt Text">
+</p>
+
 ## Sign-up Page
 
 Discover our user-friendly sign-up page. Register seamlessly using your email, name, address, password, and confirm password.
